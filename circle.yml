@@ -1,2 +1,2 @@
 general:
-  build_dir: /src/test/java/uk/co/jemos/podam/test/unit
+  build_dir: /src/test/java/uk/co/jemos/podam/test/unit/features
