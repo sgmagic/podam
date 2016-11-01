@@ -1,8 +1,5 @@
 general:
   build_dir: /src/test
-test:
-  override:
-    - echo "test"
 
 test:
   post:
