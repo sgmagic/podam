@@ -1,2 +1,6 @@
 general:
   build_dir: /src/main/java/uk/co/jemos/podam/api
+
+test:
+  override:
+    - echo "test"
