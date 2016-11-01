@@ -1,2 +1,2 @@
 general:
-  build_dir: src/test
+  build_dir: /src/test
